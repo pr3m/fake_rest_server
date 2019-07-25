@@ -1,0 +1,15 @@
+{
+    "posts": [
+      {
+        "id": 1,
+        "title": "hello",
+        "mood": 5,
+        "content": "My very long content is here"
+      }
+    ],
+    "profile": {
+      "id": 1,
+      "first_name": "Christjan",
+      "last_name": "Schumann"
+    }
+  }
